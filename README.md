@@ -1,5 +1,4 @@
-### Hi 👋  Feel free to check out some of my work! 
-
+This is my GitHub story
 <!--
 **atangent/atangent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
